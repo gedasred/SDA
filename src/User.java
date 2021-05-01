@@ -19,7 +19,7 @@ public class User extends AbstractUUID {
 
 
     /**
-     * Create a new user
+     * Create a new user...
      *
      * @param firstName the user's fist name
      * @param lastName  the user's fist name
